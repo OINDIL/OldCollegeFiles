@@ -1,0 +1,73 @@
+#para-name {
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 130%;
+}
+
+#frontimage {
+   filter: drop-shadow(0 0 0.75rem grey);
+   border: 5px solid black;
+   margin-top: 100px;
+   margin-left: 100px;
+   width: 200px;
+   border-radius: 100px;
+}
+
+#hi-name {
+   margin-top: -180px;
+   margin-left: 340px;
+}
+
+#para-name {
+   margin-left: 340px;
+}
+
+.image-links {
+   margin-left: 340px;
+}
+
+#img-1 {
+   filter: drop-shadow(0 0 0.75rem rgb(234, 96, 96));
+   border: 3px solid rgb(234, 96, 96);
+   height: 50px;
+   width: 50px;
+   border-radius: 100px;
+}
+
+#img-2 {
+   filter: drop-shadow(0 0 0.75rem rgb(67, 180, 67));
+   border: 3px solid rgb(67, 180, 67);
+   height: 50px;
+   width: 50px;
+   border-radius: 100px;
+}
+
+#img-3 {
+   filter: drop-shadow(0 0 0.75rem rgb(78, 78, 221));
+   border: 3px solid rgb(78, 78, 221);
+   height: 50px;
+   width: 50px;
+   border-radius: 100px;
+}
+
+#img-1:hover {
+   opacity: 0.7;
+}
+
+#img-2:hover {
+   opacity: 0.7;
+}
+
+#img-3:hover {
+   opacity: 0.7;
+}
+
+#social-comment {
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   opacity: 0.7;
+   margin-left: 180px;
+   margin-top: -40px;
+}
+
+#tech-stack {
+   margin-top: 10px solid black;
+}
