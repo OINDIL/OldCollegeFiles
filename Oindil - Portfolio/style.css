@@ -6,9 +6,10 @@
 
 .image-text {
    text-align: center;
-   margin-top: 240px;
+   margin-top: 140px;
 }
 .image-links{
+   margin-bottom: 30px;
    margin-top: 30px;
    display: flex;
    justify-content: center;
@@ -16,8 +17,12 @@
    
 }
 #frontimage{
-   height: 100px;
-   border:3px solid grey;
+   filter: drop-shadow(0 0 0.75rem rgb(69, 65, 65));
+   margin-top: -35px;
+   margin-bottom: 30px;
+   height: 200px;
+   border:3px solid rgb(69, 65, 65);
+   border-radius: 100%;
 }
 #img-1 {
    filter: drop-shadow(0 0 0.75rem rgb(234, 96, 96));
@@ -55,10 +60,21 @@
 #img-3:hover {
    opacity: 0.7;
 } 
-/* ul {
-   list-style-type: none;
+#hr-1{
+   width: 700px;
+   filter: blur(0.5px);
+   margin: auto;
 }
-
-li {
-   margin: 20px;
-} */
+#skills-h2{
+   filter: drop-shadow(0 0 0.5rem black);
+   margin-top: 50px;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 150%;
+   font-weight: bold;
+   text-align: center;
+}
+.skill-set{
+   display: flex;
+   justify-content: center;
+   margin-top: 50px;
+}
