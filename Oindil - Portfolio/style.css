@@ -1,7 +1,25 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+nav {
+   z-index: 1; /*to stack elements on top of eachother*/
+   position: sticky;
+   top: 0;
+   width:100%;
+   margin: 0;
+   padding: 0;
+   background-color: rgb(173, 178, 178);
+}
+nav img{
+   padding: 0;
+   height: 50px;
+   margin-top: 5px;
+
+}
 #para-name {
-   font-family: 'Courier New', Courier, monospace;
+   font-family: 'fira code', Courier, monospace;
    font-size: 130%;
-   font-style: italic;
 }
 
 .image-text {
@@ -67,13 +85,12 @@
 #hr-1 {
    width: 700px;
    filter: blur(0.5px);
-   margin: auto;
+   margin: 50px auto;
 }
 
-#skills-h2 {
-   filter: drop-shadow(0 0 0.5rem black);
+#section-h2 {
    margin-top: 50px;
-   font-family: 'Courier New', Courier, monospace;
+   font-family: 'fira code', Courier, monospace;
    font-size: 150%;
    font-weight: bold;
    text-align: center;
@@ -91,10 +108,7 @@
 }
 
 .card-text {
-   font-size: 90%;
-   font-weight: 600;
+   font-size: small;
+   font-weight: bold;
+   font-family: 'fira code', Courier, monospace;
 }
-/* .navbar a {} */
-/* nav{
-
-} */

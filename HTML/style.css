@@ -1,0 +1,101 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+body{
+    background-color: rgb(43, 153, 209);
+    display:table-cell;
+    vertical-align: middle;
+}
+form select{
+    margin-top: 5px;
+    display: flex;
+    height: 30px;
+    width: 15rem;
+}
+form label{
+    font-family:'fira code', Courier, monospace;
+    font-size:20px;
+    font-weight: 300;
+    font-size: medium;
+}
+input[type=number]{ /*very special for mozilla*/
+    -moz-appearance: textfield;
+    text-align: center;
+}
+form input{
+    outline: none;
+    box-shadow: 0 0 0.27rem;
+    display: flex;
+    border: none;
+    border-radius: 20px;
+    height: 30px;
+    width: 25rem;
+}
+input[type="text"],
+input[type="email"]{
+    text-align: center;
+}
+input[type="text"]::placeholder{
+    text-align: center;
+}
+input[type="email"]::placeholder{
+    text-align: center;
+}
+input[type="submit"]{
+    width: 100px;
+}
+select{
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+    color: rgb(16, 7, 7);
+    box-shadow: 0 0 0.37rem black;
+    font-weight:600;
+    font-family: 'fira code', Courier, monospace;
+    text-align: center;
+}
+form h1{
+    font-weight: 500;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    font-family: 'fira code', Courier, monospace;
+}
+#btnbox{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+button{
+    border: none;
+    box-shadow: 0 0 0.75rem rgb(44, 202, 44);
+    font-family: 'fira code', Courier, monospace;
+    height: 30px;
+    width: 15rem;
+    background-color: rgb(44, 202, 44);
+    border-radius: 20px;
+}
+button:hover{
+    box-shadow: 0 0 0.65rem rgb(5, 30, 20);
+}
+form{
+    box-shadow: 0 0 0.75rem;
+    background-color: white;
+    /* border: 2px solid black; */
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+}
+form div{
+    margin:10px;
+}

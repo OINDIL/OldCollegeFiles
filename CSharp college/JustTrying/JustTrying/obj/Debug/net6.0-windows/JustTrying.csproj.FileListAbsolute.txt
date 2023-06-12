@@ -1,0 +1,17 @@
+D:\MY CODE\CSharp college\JustTrying\JustTrying\bin\Debug\net6.0-windows\JustTrying.exe
+D:\MY CODE\CSharp college\JustTrying\JustTrying\bin\Debug\net6.0-windows\JustTrying.deps.json
+D:\MY CODE\CSharp college\JustTrying\JustTrying\bin\Debug\net6.0-windows\JustTrying.runtimeconfig.json
+D:\MY CODE\CSharp college\JustTrying\JustTrying\bin\Debug\net6.0-windows\JustTrying.dll
+D:\MY CODE\CSharp college\JustTrying\JustTrying\bin\Debug\net6.0-windows\JustTrying.pdb
+D:\MY CODE\CSharp college\JustTrying\JustTrying\obj\Debug\net6.0-windows\JustTrying.csproj.AssemblyReference.cache
+D:\MY CODE\CSharp college\JustTrying\JustTrying\obj\Debug\net6.0-windows\JustTrying.Form1.resources
+D:\MY CODE\CSharp college\JustTrying\JustTrying\obj\Debug\net6.0-windows\JustTrying.csproj.GenerateResource.cache
+D:\MY CODE\CSharp college\JustTrying\JustTrying\obj\Debug\net6.0-windows\JustTrying.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY CODE\CSharp college\JustTrying\JustTrying\obj\Debug\net6.0-windows\JustTrying.AssemblyInfoInputs.cache
+D:\MY CODE\CSharp college\JustTrying\JustTrying\obj\Debug\net6.0-windows\JustTrying.AssemblyInfo.cs
+D:\MY CODE\CSharp college\JustTrying\JustTrying\obj\Debug\net6.0-windows\JustTrying.csproj.CoreCompileInputs.cache
+D:\MY CODE\CSharp college\JustTrying\JustTrying\obj\Debug\net6.0-windows\JustTrying.dll
+D:\MY CODE\CSharp college\JustTrying\JustTrying\obj\Debug\net6.0-windows\refint\JustTrying.dll
+D:\MY CODE\CSharp college\JustTrying\JustTrying\obj\Debug\net6.0-windows\JustTrying.pdb
+D:\MY CODE\CSharp college\JustTrying\JustTrying\obj\Debug\net6.0-windows\JustTrying.genruntimeconfig.cache
+D:\MY CODE\CSharp college\JustTrying\JustTrying\obj\Debug\net6.0-windows\ref\JustTrying.dll

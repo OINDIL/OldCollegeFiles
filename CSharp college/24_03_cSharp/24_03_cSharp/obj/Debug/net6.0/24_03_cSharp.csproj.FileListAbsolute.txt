@@ -1,0 +1,15 @@
+D:\MY CODE\CSharp college\24_03_cSharp\24_03_cSharp\obj\Debug\net6.0\24_03_cSharp.csproj.AssemblyReference.cache
+D:\MY CODE\CSharp college\24_03_cSharp\24_03_cSharp\obj\Debug\net6.0\24_03_cSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY CODE\CSharp college\24_03_cSharp\24_03_cSharp\obj\Debug\net6.0\24_03_cSharp.AssemblyInfoInputs.cache
+D:\MY CODE\CSharp college\24_03_cSharp\24_03_cSharp\obj\Debug\net6.0\24_03_cSharp.AssemblyInfo.cs
+D:\MY CODE\CSharp college\24_03_cSharp\24_03_cSharp\obj\Debug\net6.0\24_03_cSharp.csproj.CoreCompileInputs.cache
+D:\MY CODE\CSharp college\24_03_cSharp\24_03_cSharp\bin\Debug\net6.0\24_03_cSharp.exe
+D:\MY CODE\CSharp college\24_03_cSharp\24_03_cSharp\bin\Debug\net6.0\24_03_cSharp.deps.json
+D:\MY CODE\CSharp college\24_03_cSharp\24_03_cSharp\bin\Debug\net6.0\24_03_cSharp.runtimeconfig.json
+D:\MY CODE\CSharp college\24_03_cSharp\24_03_cSharp\bin\Debug\net6.0\24_03_cSharp.dll
+D:\MY CODE\CSharp college\24_03_cSharp\24_03_cSharp\bin\Debug\net6.0\24_03_cSharp.pdb
+D:\MY CODE\CSharp college\24_03_cSharp\24_03_cSharp\obj\Debug\net6.0\24_03_cSharp.dll
+D:\MY CODE\CSharp college\24_03_cSharp\24_03_cSharp\obj\Debug\net6.0\refint\24_03_cSharp.dll
+D:\MY CODE\CSharp college\24_03_cSharp\24_03_cSharp\obj\Debug\net6.0\24_03_cSharp.pdb
+D:\MY CODE\CSharp college\24_03_cSharp\24_03_cSharp\obj\Debug\net6.0\24_03_cSharp.genruntimeconfig.cache
+D:\MY CODE\CSharp college\24_03_cSharp\24_03_cSharp\obj\Debug\net6.0\ref\24_03_cSharp.dll

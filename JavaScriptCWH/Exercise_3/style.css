@@ -1,0 +1,23 @@
+body{
+  background-color: rgb(5, 0, 0);
+}
+.Text {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding-top: 100px;
+  color: aliceblue;
+  font-family: 'Courier New', Courier, monospace;
+}
+.rect-box{
+  width: 300px;
+  /* padding: 150px; */
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 100px;
+  padding-right: 100px;
+  border: 5px solid rgb(36, 129, 205);
+  margin: auto;
+  margin-top: 170px;
+  border-radius: 20px;
+}

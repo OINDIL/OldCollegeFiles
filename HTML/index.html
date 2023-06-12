@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form validation - using HTML,CSS,JS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form name="registrationForm" action="script.js" onsubmit="return validateForm()" method="post">
+        <h1>Let us contact you</h1>
+        <div id="NameBox">
+            <label for="MyName">
+                Name <input type="text" name="MyName" id="MyName" placeholder="Enter your 😎 name" >
+            </label>
+        </div>
+        <div id="ageBox">
+            <label for="MyAge">
+                Age <input type="number" id="MyAge" name="MyAge" placeholder="Your age please 🔢" >
+            </label>
+        </div>
+        <div id="ContactBox">
+            <label for="MyNumber">
+                Contact <input type="number" name="MyNumber" id="MyNumber" placeholder="Mobile Number" >
+            </label>
+        </div>
+        <div id="emailBox">
+            <label for="MyEmail">
+                Email <input type="email" id="MyEmail" name="MyEmail" placeholder="Enter Email address" >
+            </label>
+        </div>
+        <div id="GenderBox">
+            <label for="MyGender">
+                Gender
+               <select name="MyGender" id="MyGender">
+                <option value="male">Male</option>
+                <option value="female">female</option>
+                <option value="n-binary">Non-binary</option>
+               </select>
+            </label>
+        </div>
+        <div id="submission" style="display:flex;justify-content: center;"></div>
+        <div id="btnbox">
+            <button id="btn">Submit</button>
+        </div>
+    </form>
+    <script src="script.js"></script>
+</body>
+</html>
